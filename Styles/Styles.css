@@ -1,0 +1,48 @@
+/*******************************************************Header*********************************************************/
+.navbar {
+  background-color: #ecfffc;
+  font-family: "Ubuntu";
+  font-size: 1.1rem;
+  font-weight: 400;
+  padding: 0%;
+}
+
+.logo-nav {
+  width: 7rem;
+}
+.navbar-brand {
+  padding: 0;
+}
+
+.navbar .navbar-nav .nav-link {
+  color: #54678e;
+}
+.navbar .navbar-nav .nav-link:hover {
+  color: #cf4749;
+}
+
+h1 {
+  font-family: "Nunito";
+  font-weight: 700;
+}
+h3 {
+  font-family: "Ubuntu";
+  font-weight: 200;
+}
+
+.heading {
+  text-align: center;
+}
+/*******************************************************Body*********************************************************/
+.profile_picure {
+  width: 15rem;
+  height: 15rem;
+}
+.body {
+  padding: 7.5rem 7.5rem;
+}
+/*******************************************************About me*********************************************************/
+.about_me {
+  background-color: #ecfffc;
+  padding: 10% 30%;
+}
